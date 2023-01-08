@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+/* banner and header styles */
+.banner{
+  text-align: center;
+  display: flex;
+}
+.banner-subtitle{
+    color: #444343;
+    font-weight: 400;
+    margin:231 870 ;
+    padding:25px ;
+
+}
+.button-primary{
+    background-color:#F15B22;
+    border-radius: 5px;
+    width: 160px;
+    margin-top: 578;
+    margin-left: 1210;
+    color: #FFFFFF;
+    padding: 200 1200;
+}
+.banner-demo{
+    display: flex;
+}
+/* Standard 2nd portion */
+.standard{
+    display: flex;
+    text-align: center;
+    justify-content: flex-start;
+}
+.standard-title{
+    text-align: center;
+    font-weight: 400;
+    border: 0;
+    margin: 200 1100;
+    padding:0 ;
+}
+.standard-subtitle{
+    text-align: center;
+    margin-bottom: 24;
+    color: #444343;
+    
+}
+.standard-description li{
+    text-align: center;
+    color: #444343;
+}
+/* Div daring portion */
+.daring-person{
+    display: flex;
+
+
+}
+/* plan fail 3rd portion */
+main{
+    max-width: 1140;
+    margin: 0 auto;
+}
+.plan-fail{
+    font: bold;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    
+}
+/* play info container 3rd short */
+.play-info-container{
+    display: flex;
+    margin-left: 5px;
+    justify-content: space-around;
+font-weight: 700;
+font-size: 17;
+gap: 25px;
+}
