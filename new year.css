@@ -77,3 +77,12 @@ font-weight: 700;
 font-size: 17;
 gap: 25px;
 }
+
+/* 4th portion color-Aventure */
+/* contact styles portion */
+.contact{
+    display: flex;
+}
+.contact.sectiion-title{
+    text-align: left;
+}
